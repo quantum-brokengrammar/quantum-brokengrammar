@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quantum-brokengrammar
-- 👀 I’m interested in scratch, HTML5, mindustry, javascript, and roblox lua
+- 👀 I’m interested in Java, HTML5, mindustry, javascript, and roblox lua
 - 🌱 I’m currently learning about how to make mindustry plugins
 - 💞️ I’m looking to collaborate on ...
 
